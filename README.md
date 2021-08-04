@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SpringWangLA
+- 👀 I’m interested in coding, electrical, automation and control. In my freetime, I usually spend time to read books, watch youtube for new tech, and of course...coding.
+- 🌱 I’m currently learning Xamarin Forms which I found really interesting for mobile Application.
+- 📫 How to reach me --> catch me thru email: developer.xamarin.hoang@gmail.com or LinkedIn.
