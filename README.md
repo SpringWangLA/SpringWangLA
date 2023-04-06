@@ -1,6 +1,3 @@
 - 👋 Hi, I’m @SpringWangLA
 - 👀 I’m interested in coding, electrical, automation and control. In my freetime, I usually spend time to read books, watch youtube for new tech, and of course...coding.
 - 🌱 This github link will store all of my learning here.
-- 📫 How to reach me:
-      --> Email: developer.xamarin.hoang@gmail.com
-      --> LinkedIn: www.linkedin.com/in/hoang-nguyen-spring
